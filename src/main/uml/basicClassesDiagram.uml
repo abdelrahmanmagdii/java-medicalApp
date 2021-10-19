@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="0.0">eg.com.uofcanada.Patient</node>
+    <node x="452.0" y="358.0">eg.com.uofcanada.DefaultCombo</node>
+    <node x="641.0" y="104.0">eg.com.uofcanada.Appointment</node>
+    <node x="559.25" y="0.0">eg.com.uofcanada.ComboElement</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="eg.com.uofcanada.Appointment" target="eg.com.uofcanada.ComboElement">
+      <point x="0.0" y="-292.0" />
+      <point x="751.0" y="79.0" />
+      <point x="686.0" y="79.0" />
+      <point x="42.25" y="27.0" />
+    </edge>
+    <edge source="eg.com.uofcanada.DefaultCombo" target="eg.com.uofcanada.ComboElement">
+      <point x="0.0" y="-38.0" />
+      <point x="536.5" y="79.0" />
+      <point x="601.5" y="79.0" />
+      <point x="-42.25" y="27.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8" x="348.5" y="342.22222222222223" />
+  <SelectedNodes>
+    <node>eg.com.uofcanada.ComboElement</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

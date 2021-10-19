@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="733.0">eg.com.uofcanada.AppointmentItemListener</node>
+    <node x="281.0" y="733.0">eg.com.uofcanada.ApproveSubmit</node>
+    <node x="562.0" y="733.0">eg.com.uofcanada.NurseMain</node>
+    <node x="346.0" y="0.0">eg.com.uofcanada.ViewppointmentListActionListener</node>
+    <node x="0.0" y="391.0">eg.com.uofcanada.NurseFrame</node>
+    <node x="50.0" y="0.0">eg.com.uofcanada.BasicFrame</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="eg.com.uofcanada.NurseFrame" target="eg.com.uofcanada.BasicFrame">
+      <point x="0.0" y="-148.5" />
+      <point x="0.0" y="170.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="667.5" y="315.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
